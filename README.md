@@ -12,7 +12,7 @@ A graphical user interface (GUI) that controls the acousto-optical characterizat
 6. **Acoustic/mechanical characterization** — based on the time-of-flight (ToF) method.
 
 <p align="center">
-  <img src="Image_1.jpg" width="60%" /><br>
+  <img src="Image_1.png" width="60%" /><br>
   <em>Figure 1 — GUI interface for instrument control.</em>
 </p>
 
